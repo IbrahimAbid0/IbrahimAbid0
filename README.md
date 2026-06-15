@@ -7,12 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Production+GenAI+%E2%80%94+RAG%2C+Agents%2C+LLMs;LangChain+%C2%B7+LangGraph+%C2%B7+Qdrant+%C2%B7+FastAPI;Multi-Agent+Workflows+%26+the+Model+Context+Protocol;Building+systems+that+ship%2C+not+demos" alt="Muhammad Ibrahim Abid" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=IbrahimAbid0&label=Profile%20views&color=22d3ee&style=flat" alt="views" />
-  <a href="https://github.com/IbrahimAbid0?tab=followers"><img src="https://img.shields.io/github/followers/IbrahimAbid0?label=Followers&style=flat&color=a78bfa" alt="followers" /></a>
-  <a href="https://ibrahim-abid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ibrahim--abid.vercel.app-22d3ee?style=flat&logo=vercel&logoColor=white" alt="portfolio" /></a>
-</p>
-
 </div>
 
 ---
