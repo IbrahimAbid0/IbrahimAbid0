@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+Engineer+%C2%B7+Team+Lead+%40+CareCloud;Production+GenAI+%E2%80%94+RAG%2C+Agents%2C+LLMs;LangChain+%C2%B7+LangGraph+%C2%B7+Qdrant+%C2%B7+FastAPI;Building+systems+that+ship%2C+not+demos" alt="Muhammad Ibrahim Abid" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Production+GenAI+%E2%80%94+RAG%2C+Agents%2C+LLMs;LangChain+%C2%B7+LangGraph+%C2%B7+Qdrant+%C2%B7+FastAPI;Multi-Agent+Workflows+%26+the+Model+Context+Protocol;Building+systems+that+ship%2C+not+demos" alt="Muhammad Ibrahim Abid" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=IbrahimAbid0&label=Profile%20views&color=22d3ee&style=flat" alt="views" />
@@ -19,15 +19,15 @@
 
 ## 👋 Hey, I'm Ibrahim
 
-**AI Engineer · Team Lead** at **MTBC / CareCloud**, based in **Islamabad**. I build production **GenAI systems** — multi-layered RAG pipelines, agentic workflows (LangGraph · CrewAI · MCP), and LLM-powered services that ship on **FastAPI · Docker · Kubernetes**. I care about the unglamorous parts — reliable retrieval, evaluation, observability — because that's what separates a working prototype from something that earns trust in production.
+I build production **GenAI systems** — multi-layered RAG pipelines, agentic workflows (**LangGraph** · **CrewAI** · **MCP**), and LLM-powered services that ship on **FastAPI** · **Docker** · **Kubernetes**. I care about the unglamorous parts — reliable retrieval, evaluation, observability — because that's what separates a working prototype from something that earns trust in production.
 
-🌐 **[ibrahim-abid.vercel.app](https://ibrahim-abid.vercel.app)** &nbsp;·&nbsp; 📫 **ibrahimabidofficial0@gmail.com**
+🌐 **[ibrahim-abid.vercel.app](https://ibrahim-abid.vercel.app)** &nbsp;·&nbsp; 📬 **ibrahimabidofficial0@gmail.com**
 
 ---
 
 ## 🚀 Featured — AI Medical Coding Assistant
 
-> Production GenAI at **MTBC / CareCloud**. Multi-layered RAG over **Qdrant**, customized per practice and specialty, with Gemini grounding for up-to-date payer rules (MIPS / LCD / NCD / NCCI). Wrapped in FastAPI and shipped via Azure DevOps CI/CD on Kubernetes — helped reduce per-record medical coding time from **~20 min → ~5 min**.
+> Production GenAI built on a multi-layered RAG architecture over **Qdrant**, customized per practice and specialty, with Gemini grounding for up-to-date payer rules (MIPS / LCD / NCD / NCCI). Wrapped in FastAPI and shipped via Azure DevOps CI/CD on Kubernetes — helped reduce per-record medical coding time from **~20 min → ~5 min**.
 
 <div align="center">
   <code>Python</code> · <code>FastAPI</code> · <code>LangChain</code> · <code>Qdrant</code> · <code>Gemini</code> · <code>Azure DevOps</code> · <code>Docker</code> · <code>Kubernetes</code>
